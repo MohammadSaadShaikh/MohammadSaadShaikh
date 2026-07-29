@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohammad%20Saad%20Mubeen%20Shaikh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Undergrad%20%7C%20Java%20%26%20DSA%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/MohammadSaadShaikh/MohammadSaadShaikh/main/banner.svg" width="100%" alt="banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+with+Java+%26+Python+%F0%9F%9A%80;Solving+DSA+one+problem+at+a+time+%F0%9F%A7%A9;Exploring+Machine+Learning+%F0%9F%A4%96;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Always+debugging%2C+never+giving+up+%F0%9F%92%BB" alt="Typing SVG" />
@@ -8,6 +8,8 @@
 
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=MohammadSaadShaikh&label=Profile%20Views&color=58A6FF&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/MohammadSaadShaikh?label=Followers&style=flat-square&color=58A6FF" alt="followers"/>
 
 </div>
 
@@ -196,7 +198,7 @@ It generates the SVG itself and commits it to an "output" branch — nothing ext
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/MohammadSaadShaikh/MohammadSaadShaikh/main/footer.svg" width="100%" alt="footer"/>
 
 <div align="center">
 <sub>⭐ Thanks for stopping by — feel free to explore my repos and connect!</sub>
