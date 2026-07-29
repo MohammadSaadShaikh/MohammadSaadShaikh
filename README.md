@@ -3,7 +3,7 @@
 <img src="banner.svg" width="100%" alt="banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+with+Java+%26+Python+%F0%9F%9A%80;Solving+DSA+one+problem+at+a+time+%F0%9F%A7%A9;Exploring+Machine+Learning+%F0%9F%A4%96;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Always+debugging%2C+never+giving+up+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+Developer+%E2%98%95;Building+with+OOP+%26+Multithreading+%F0%9F%A7%B5;DSA+%2B+Java+%3D+Clean+Code+%F0%9F%A7%A9;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Always+debugging%2C+never+giving+up+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <br/>
