@@ -3,7 +3,7 @@
 <img src="banner.svg" width="100%" alt="banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+Developer+%E2%98%95;Building+with+OOP+%26+Multithreading+%F0%9F%A7%B5;DSA+%2B+Java+%3D+Clean+Code+%F0%9F%A7%A9;Turning+Sockets+into+Real-Time+Systems+%F0%9F%94%8C;Always+debugging%2C+never+giving+up+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+Developer;Object-Oriented+Design+%26+Multithreading;Data+Structures+%26+Algorithms;Network+Programming+%26+Real-Time+Systems;Machine+Learning+%26+Cloud+Fundamentals" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,10 +20,10 @@
 - 🎓 B.Tech in **Computer Science and Engineering** @ VIT Bhopal University (CGPA: **8.45**)
 - 💡 Strong foundation in **Java, DSA, OOP, DBMS, and Computer Networking**
 - ☁️ **AWS Certified Cloud Practitioner**
-- 🤖 Passionate about **Machine Learning** and building intelligent, data-driven solutions
+- 🤖 Focused on **Machine Learning** and building intelligent, data-driven solutions
 - 📱 Experienced in building **Android, desktop, and network-based** applications
-- 🌱 Currently sharpening skills in advanced DSA and full-stack development
-- ⚡ Fun fact: I enjoy turning tricky networking problems into clean, working code
+- 🌱 Currently advancing my skills in DSA and full-stack development
+- ⚡ Strong interest in solving complex networking problems with clean, maintainable code
 
 <br clear="right"/>
 
@@ -70,54 +70,66 @@
 <tr>
 <td width="50%">
 
-### 💬 Multi-Client Chat Application
+### 🎮 AWESOME Game Store — Price Aggregation Platform
+**Java 17 · Spring Boot · JPA/Hibernate · PostgreSQL · REST API**
+
+Backend that aggregates game deals from multiple digital storefronts through the CheapShark API, with endpoints for deal search, price comparison, stores, currencies, and wishlists. Features a layered architecture with DTO mapping, global exception handling, thread-safe in-memory caching, and scheduled price synchronization for price-drop tracking.
+
+[View repository →](https://github.com/MohammadSaadShaikh/Awesome-Game-Store)
+
+</td>
+<td width="50%">
+
+### 📚 Game Library Management API
+**Java · Spring Boot · MongoDB · REST API**
+
+User-scoped REST API for managing game libraries, playtime, platforms, genres, and notes. Built on a Controller–Service–Repository architecture with CRUD and partial updates, user–game associations, automatic timestamps, proper HTTP status handling, and per-user data isolation.
+
+[View repository →](https://github.com/MohammadSaadShaikh/Game-Library-Management-API)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💬 Concurrent Chat Server
 **Java · TCP Sockets · Multithreading**
 
-Real-time chat app using Java sockets and multithreading with a centralized server for concurrent client handling and message broadcasting.
+Multithreaded client–server chat system over Java TCP sockets that supports simultaneous client connections and real-time message broadcasting through a central server.
+
+[View repository →](https://github.com/MohammadSaadShaikh/Server-and-Socket-based-group-Chat)
 
 </td>
 <td width="50%">
 
-### 📊 Student Performance Prediction
-**Python · Scikit-Learn · ML**
+### 📊 Student Performance Prediction System
+**Python · Scikit-Learn · XGBoost · ML**
 
-Stacking Ensemble (Random Forest, SVR, XGBoost + Elastic Net) achieving an **R² score of 0.88**, with full feature engineering and hyperparameter tuning.
+End-to-end ML pipeline covering preprocessing, feature engineering, exploratory visualization, evaluation, and hyperparameter tuning. A Stacking Ensemble (Random Forest, SVR, XGBoost + Elastic Net) achieved an **R² score of 0.88**.
+
+[View repository →](https://github.com/MohammadSaadShaikh/Student-Performance-Prediction)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎓 Student Management System
+### 🎓 Campus Course & Records Manager (CCRM)
 **Java · OOP · Java NIO.2**
 
-CLI-based system for course enrollment, GPA calculation, file persistence, and robust exception handling.
+Menu-driven CLI for managing students, courses, enrollments, and grades, with GPA calculation, transcript printing, CSV import/export, timestamped backups, and custom exceptions for rules like duplicate enrollment and credit limits.
+
+[View repository →](https://github.com/MohammadSaadShaikh/ccrm-project)
 
 </td>
 <td width="50%">
 
-### 🔢 Multi-Function TCP Client–Server App
+### 🔁 Echo Server (TCP Sockets)
 **Java · TCP Sockets · Networking**
 
-Computes GCD, LCM, Powers of 2, Armstrong numbers, Fibonacci and more, via a real-time server-side request dispatcher.
+Client–server application over TCP in which the client sends a message and the server echoes it back, demonstrating reliable socket communication.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔁 Synchronous Echo Server
-**Java · IO Streams · Networking**
-
-Socket-based echo client-server framework for reliable, bidirectional message transmission.
-
-</td>
-<td width="50%">
-
-### 🏥 Doctor-Patient Portal (Android)
-**Java · Android Studio**
-
-Appointment booking app with department-wise registration, dynamic scheduling, and daily appointment limits.
+[View repository →](https://github.com/MohammadSaadShaikh/EchoMessage)
 
 </td>
 </tr>
@@ -131,39 +143,17 @@ Appointment booking app with department-wise registration, dynamic scheduling, a
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadSaadShaikh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSaadShaikh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=MohammadSaadShaikh&theme=tokyonight&hide_border=true" alt="streak stats"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadSaadShaikh&theme=react-dark&hide_border=true" width="90%"/>
-
-<sub>⚠️ These three cards are served by free public demo instances (Vercel/community-hosted) — they occasionally fail to load or hit rate limits. If you see broken images here after publishing, it's the service, not your README; see the self-hosting note below.</sub>
-
-</div>
-
----
-
 ## 🏆 Certifications
 
 - ☁️ **Microsoft Azure Data Fundamentals** — Core data concepts and Azure data services
 - 🤖 **SmartBridge – Machine Learning** — Practical implementations of ML algorithms
 - 🌐 **Coursera – The Bits and Bytes of Computer Networking** — IP, TCP/UDP & network architecture
-- 🎖️ **AWS Certified Cloud Practitioner**
 
 ---
 
 ## 🤝 Leadership & Involvement
 
-- 👥 Active contributor to the **AWS Cloud Club** and **iCreate Club** at VIT Bhopal University — technical workshops, coding events, and collaborative dev initiatives.
+* 👥 **Former Member, AWS Cloud Club & iCreate Club**, VIT Bhopal University — Participated in technical workshops, coding events, and collaborative development initiatives.
 
 ---
 
@@ -182,15 +172,7 @@ Appointment booking app with department-wise registration, dynamic scheduling, a
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-<!--
-This image will only appear AFTER you add the GitHub Action workflow below to this repo.
-It generates the SVG itself and commits it to an "output" branch — nothing external to break.
--->
-<img src="https://raw.githubusercontent.com/MohammadSaadShaikh/MohammadSaadShaikh/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
-<sub>✨ Generated by the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action, hosted in this same repo — see setup instructions below (nothing shows until you complete the one-time setup).</sub>
+<img src="https://raw.githubusercontent.com/MohammadSaadShaikh/MohammadSaadShaikh/output/github-contribution-grid-snake.svg" alt="contribution snake animation"/>
 
 </div>
 
@@ -199,5 +181,5 @@ It generates the SVG itself and commits it to an "output" branch — nothing ext
 <img src="https://raw.githubusercontent.com/MohammadSaadShaikh/MohammadSaadShaikh/main/footer.svg" width="100%" alt="footer"/>
 
 <div align="center">
-<sub>⭐ Thanks for stopping by — feel free to explore my repos and connect!</sub>
+<sub>Thank you for visiting. Feel free to explore my repositories and get in touch.</sub>
 </div>
